@@ -112,6 +112,20 @@ a:hover, a:focus {
     text-decoration: none;
 }
 
+.list-projects {
+	font-size: medium;
+}
+
+.list-projects li{
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.list-projects a:hover, a:focus {
+    color: #333333;
+    text-decoration: none;
+}
+
 .img-padded {
     margin-left: 23px;
 }
